@@ -15,6 +15,8 @@ Black Jack 21 點是一款撲克牌遊戲，玩家的目標是使手中的牌點
 
 
 ## 安裝與執行
+![image](https://github.com/andyjkjk/Black-jack/assets/127190935/867a2c2f-5372-4694-b902-4817789501d0)
+下載後開啟使用visual studio執行即可
 
 
 ## 程式畫面截圖
