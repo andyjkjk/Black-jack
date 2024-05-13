@@ -20,6 +20,7 @@ Black Jack 21 點是一款撲克牌遊戲，玩家的目標是使手中的牌點
 
 
 ## 程式畫面截圖
+![image](https://github.com/andyjkjk/Black-jack/assets/127190935/8c892c79-da30-4297-b028-befcfc610f1b)
 
 
 ## 分工資訊
